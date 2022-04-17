@@ -1,0 +1,47 @@
+1. Struktur Dokumen HTML
+2. HTML Element, Tag, Attribute & Comment
+    - HTML Tag
+    - Html Element
+    - Html Atribute
+    - HTML Comment
+3. HTML Tag Untuk Menampilkan Teks
+    - Heading
+    - Paragraf
+    - Link/Anchor
+    - Span
+    - Huruf Tebal
+    - Huruf Miring
+    - List
+4. HTML Tag Untuk Multimedia
+    - Gambar
+    - Video
+        <video width="800" height="600" autoplay controls poster="url">
+            <source src="link-ke-videonya" type="video/mp4" />
+            <source src="link-ke-videonya" type="video/ogg" />
+            <source src="link-ke-videonya" type="video/webm" />
+        </video>
+    - Audio
+        <audio controls autoplay loop>
+            <source src="cat_meow.ogg" type="audio/ogg" />
+            <source src="cat_meow.mp3" type="audio/mp3" />
+            <source src="cat_meow.wav" type="audio/wav" />
+            Your browser does not support the audio element.
+        </audio>
+    - Halaman Website Lainnya
+        <iframe src="https://bit.ly/32jR7ro" width="200" height="300" scrolling="no" frameborder="0"></iframe>
+5. HTML Tag Untuk Tabel
+6. HTML Tag Untuk Formulir
+    - Input
+    - Select dan Option
+    - Fieldset
+    - Legend
+    - Text Area
+    - Tombol
+    
+7. HTML Tag Untuk Membagi Layout Website
+    - Header
+    - Navigation bar
+    - Main Content
+        > section
+        > article
+    - Footer
